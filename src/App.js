@@ -19,8 +19,6 @@ function App() {
           <Portofolio/>
         </Route>
       </Switch>
-
-      
     </div>
   );
 }
