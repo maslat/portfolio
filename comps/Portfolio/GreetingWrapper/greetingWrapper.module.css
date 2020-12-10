@@ -1,9 +1,0 @@
-.greetingWrapper{
-	display: grid;
-	text-align: center;
-	align-content: center;
-    min-height: 10em;
-    max-width: 960px;
-
-}
-
